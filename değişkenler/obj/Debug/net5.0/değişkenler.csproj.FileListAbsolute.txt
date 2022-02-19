@@ -1,0 +1,16 @@
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\değişkenler.exe
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\değişkenler.deps.json
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\değişkenler.runtimeconfig.json
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\değişkenler.runtimeconfig.dev.json
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\değişkenler.dll
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\ref\değişkenler.dll
+D:\C# çalışma\Patika\değişkenler\bin\Debug\net5.0\değişkenler.pdb
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.csproj.AssemblyReference.cache
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.AssemblyInfoInputs.cache
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.AssemblyInfo.cs
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.csproj.CoreCompileInputs.cache
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.dll
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\ref\değişkenler.dll
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.pdb
+D:\C# çalışma\Patika\değişkenler\obj\Debug\net5.0\değişkenler.genruntimeconfig.cache

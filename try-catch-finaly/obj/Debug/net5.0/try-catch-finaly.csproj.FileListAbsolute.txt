@@ -1,0 +1,16 @@
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\try-catch-finaly.exe
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\try-catch-finaly.deps.json
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\try-catch-finaly.runtimeconfig.json
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\try-catch-finaly.runtimeconfig.dev.json
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\try-catch-finaly.dll
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\ref\try-catch-finaly.dll
+D:\C# çalışma\Patika\try-catch-finaly\bin\Debug\net5.0\try-catch-finaly.pdb
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.csproj.AssemblyReference.cache
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.AssemblyInfoInputs.cache
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.AssemblyInfo.cs
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.csproj.CoreCompileInputs.cache
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.dll
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\ref\try-catch-finaly.dll
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.pdb
+D:\C# çalışma\Patika\try-catch-finaly\obj\Debug\net5.0\try-catch-finaly.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\tip-dömüşümler.exe
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\tip-dömüşümler.deps.json
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\tip-dömüşümler.runtimeconfig.json
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\tip-dömüşümler.runtimeconfig.dev.json
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\tip-dömüşümler.dll
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\ref\tip-dömüşümler.dll
+D:\C# çalışma\Patika\tip-dömüşümler\bin\Debug\net5.0\tip-dömüşümler.pdb
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.csproj.AssemblyReference.cache
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.AssemblyInfoInputs.cache
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.AssemblyInfo.cs
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.csproj.CoreCompileInputs.cache
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.dll
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\ref\tip-dömüşümler.dll
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.pdb
+D:\C# çalışma\Patika\tip-dömüşümler\obj\Debug\net5.0\tip-dömüşümler.genruntimeconfig.cache

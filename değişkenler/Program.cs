@@ -63,11 +63,13 @@ namespace değişkenler
             string dateTime = DateTime.Now.ToString("dd.mm.yyyy");
             System.Console.WriteLine(dateTime);
 
-             string dateTime1 = DateTime.Now.ToString("dd/mm/yyyy");
+            string dateTime1 = DateTime.Now.ToString("dd/mm/yyyy");
             System.Console.WriteLine(dateTime1);
 
-             string dateTime3 = DateTime.Now.ToString("HH:mm");
+            string dateTime3 = DateTime.Now.ToString("HH:mm");
             System.Console.WriteLine(dateTime3);
+
+            Console.Read();
 
 
 

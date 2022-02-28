@@ -1,0 +1,16 @@
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\if-else.exe
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\if-else.deps.json
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\if-else.runtimeconfig.json
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\if-else.runtimeconfig.dev.json
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\if-else.dll
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\ref\if-else.dll
+D:\C# çalışma\Patika\if-else\bin\Debug\net5.0\if-else.pdb
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.csproj.AssemblyReference.cache
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.AssemblyInfoInputs.cache
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.AssemblyInfo.cs
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.csproj.CoreCompileInputs.cache
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.dll
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\ref\if-else.dll
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.pdb
+D:\C# çalışma\Patika\if-else\obj\Debug\net5.0\if-else.genruntimeconfig.cache
